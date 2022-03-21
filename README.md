@@ -1,4 +1,4 @@
-# **CS-Breaker**
+# **CS Study**
 
 구성원 - 김가영, 김대희, 박민석, 전종민
 
@@ -12,9 +12,9 @@
 
 | 학습 범위 | 질문자(& 내용 정리) |      답변자      |    날짜    | 정리 내용 |
 | :-------- | :-----------------: | :--------------: | :--------: | --------- |
-| ch1. 데이터베이스 기본 개념 </br> ch2. 데이터베이스 관리 시스템   | 박민석 | 김가영 김대희 전종민 | 2022.03.08 | [DB-1차](https://github.com/cs-breaker/database/blob/main/20220308-DB-1.md) |
-| ch3. 데이터베이스 시스템 </br> ch4. 데이터 모델링   | 전종민 | 김가영 김대희 박민석 | 2022.03.15 | [DB-2차](https://github.com/cs-breaker/database/blob/main/20220315-DB-2.md) |
-| ch5. 관계 데이터 모델 </br> ch6. 관계 데이터 연산   | 김대희 | 김가영 박민석 전종민 | 2022.03.19 | [DB-3차](https://github.com/cs-breaker/database/blob/main/20220319-DB-3.md) |
+| ch1. 데이터베이스 기본 개념 </br> ch2. 데이터베이스 관리 시스템   | 박민석 | 김가영 김대희 전종민 | 2022.03.08 | [DB-1차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220308-DB-1.md) |
+| ch3. 데이터베이스 시스템 </br> ch4. 데이터 모델링   | 전종민 | 김가영 김대희 박민석 | 2022.03.15 | [DB-2차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220315-DB-2.md) |
+| ch5. 관계 데이터 모델 </br> ch6. 관계 데이터 연산   | 김대희 | 김가영 박민석 전종민 | 2022.03.19 | [DB-3차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220319-DB-3.md) |
 | ch7. 데이터베이스 언어 SQL  | # | # | # | # |
 | ch8. 데이터베이스 설계 </br> ch9. 정규화   | # | # | # | # |
 | ch10. 회복과 병행 제어 </br> ch11. 보안과 권한관리 | # | # | # | # |
