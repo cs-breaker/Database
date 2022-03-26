@@ -16,6 +16,6 @@
 | ch3. 데이터베이스 시스템 </br> ch4. 데이터 모델링   | 전종민 | 김가영 김대희 박민석 | 2022.03.15 | [DB-2차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220315-DB-2.md) |
 | ch5. 관계 데이터 모델 </br> ch6. 관계 데이터 연산   | 김대희 | 김가영 박민석 전종민 | 2022.03.19 | [DB-3차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220319-DB-3.md) |
 | ch7. 데이터베이스 언어 SQL  | 김가영 | 김대희 전종민 | 2022.03.22 | [DB-4차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220322-DB-4.md) |
-| ch8. 데이터베이스 설계 </br> ch9. 정규화   | # | # | # | # |
+| ch8. 데이터베이스 설계 </br> ch9. 정규화   | 전종민 | 김가영 김대희 | 2022.03.26 | [DB-5차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220326-DB-5.md) |
 | ch10. 회복과 병행 제어 </br> ch11. 보안과 권한관리 | # | # | # | # |
 | ch12. 데이터베이스 응용 기술 </br> ch13. 데이터 과학과 빅데이터| # | # | # | # |
