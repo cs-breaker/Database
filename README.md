@@ -18,4 +18,4 @@
 | ch7. 데이터베이스 언어 SQL  | 김가영 | 김대희 전종민 | 2022.03.22 | [DB-4차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220322-DB-4.md) |
 | ch8. 데이터베이스 설계 </br> ch9. 정규화   | 전종민 | 김가영 김대희 | 2022.03.26 | [DB-5차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220326-DB-5.md) |
 | ch10. 회복과 병행 제어 </br> ch11. 보안과 권한관리 | 김대희 | 김가영 전종민 | 2022.03.29 | [DB-6차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220329-DB-6.md) |
-| ch12. 데이터베이스 응용 기술 </br> ch13. 데이터 과학과 빅데이터| # | # | # | # |
+| ch12. 데이터베이스 응용 기술 </br> ch13. 데이터 과학과 빅데이터| 김가영 | 김대희 전종민 | 2022.04.02 | [DB-차](https://github.com/cs-breaker/cs-study/blob/main/Database/20220402-DB-7.md) |
